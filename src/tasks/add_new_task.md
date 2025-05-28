@@ -12,4 +12,4 @@ Within the appropriate task type file, add to `get_data_df()` to implement the l
 
 Add the dataset name to `src/tasks/__init__.py` so the correct Task subclass/task type is used for the dataset. Also indicate whether, during uncertainty scoring, we should use the original question versus parsed atomic questions for sampling $K$ assertions for consistency-based measurement of models' intrinsic confidence.
 
-_If a new task type was created_, add the corresopnding task prompts to `src/prompts/task_prompts.py` and, if applicable, `src/prompts/input_prompts.py`, and create relevant entries in `src/prompts/__init__.py/TASK_PROMPT_REGISTRY`.
+_If a new task type was created_, add the corresopnding task prompts to `src/prompts/task_prompts.py` and, if applicable, `src/prompts/input_prompts.py`, and create relevant entries in `src/prompts/__init__.py`.
