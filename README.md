@@ -11,7 +11,7 @@ It also includes the implementation of **MetaFaith**, a systematic procedure to 
 </p> -->
 
 <p align="center">
-    <a href="https://arxiv.org" style="display:inline-block;background-color:#2196F3;color:white;padding:10px 20px;text-align:center;text-decoration:none;font-size:20px;border-radius:5px;">📄 <b>Paper</b></a>
+    <a href="http://arxiv.org/abs/2505.24858" style="display:inline-block;background-color:#2196F3;color:white;padding:10px 20px;text-align:center;text-decoration:none;font-size:20px;border-radius:5px;">📄 <b>Paper</b></a>
 </p>
 
 ## Quick Links
@@ -215,15 +215,12 @@ src/prompts/__init__.py
 ## 📝 Citation
 
 If you find the content of this project helpful, please cite our paper as follows:
-```
-Citation coming soon. Please keep an eye out!
-```
-<!-- ```bibtex
-@article{liu2024mdcure,
-    title={MDCure: A Scalable Pipeline for Multi-Document Instruction-Following},
-    author={Gabrielle Kaili-May Liu and Bowen Shi and Avi Caciularu and Idan Szpektor and Arman Cohan},
-    journal={arXiv preprint arXiv:2410.23463},
-    year={2024},
-    url={https://arxiv.org/abs/2410.23463}
+```bibtex
+@article{liu2025metafaith,
+    title={MetaFaith: Faithful Natural Language Uncertainty Expression in LLMs}, 
+    author={Gabrielle Kaili-May Liu and Gal Yona and Avi Caciularu and Idan Szpektor and Tim G. J. Rudner and Arman Cohan},
+    journal={arXiv preprint arXiv:2505.24858},
+    year={2025},
+    url={https://arxiv.org/abs/2505.24858}, 
 }
-``` -->
+```
