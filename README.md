@@ -1,4 +1,4 @@
-# MetaFaith: Understanding and Improving Faithful Natural Language Uncertainty Expression in LLMs
+# MetaFaith: Faithful Natural Language Uncertainty Expression in LLMs
 
 
 This repository provides code for the first study to systematically and comprehensively benchmark **faithful confidence calibration** of LLMs, evaluating models’ ability to use linguistic expressions of uncertainty that *faithfully reflect* their intrinsic uncertainty, across diverse models, datasets, and prompting strategies. 
